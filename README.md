@@ -10,19 +10,17 @@
 
 ```
 ## Some Highlights of app.
-<p  style="border: 2px solid #555;">
-  <img src="https://github.com/AdityaLambat/HireMe/blob/master/Screenshot_20231208-070849_Expo%20Go.jpg" width="350">
-</p>
 
+<img src="https://github.com/AdityaLambat/HireMe/blob/master/Screenshot_20231208-070849_Expo%20Go.jpg" width="250">
 <br>
 <br>
-<img src="https://github.com/AdityaLambat/HireMe/blob/master/Screenshot_20231208-070852_Expo%20Go.jpg" width="350">
+<img src="https://github.com/AdityaLambat/HireMe/blob/master/Screenshot_20231208-070852_Expo%20Go.jpg" width="250">
 <br>
 <br>
-<img src="https://github.com/AdityaLambat/HireMe/blob/master/Screenshot_1703844388.png" width="350">
+<img src="https://github.com/AdityaLambat/HireMe/blob/master/Screenshot_1703844388.png" width="250">
 <br>
 <br>
-<img src="https://github.com/AdityaLambat/HireMe/blob/master/Screenshot_1703844400.png" width="350">
+<img src="https://github.com/AdityaLambat/HireMe/blob/master/Screenshot_1703844400.png" width="250">
 <br>
 <br>
 
