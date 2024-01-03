@@ -10,7 +10,7 @@
 
 ```
 ## Some Highlights of app.
-<p  style="border: 2px solid black;">
+<p  style="border: 2px solid #555;">
   <img src="https://github.com/AdityaLambat/HireMe/blob/master/Screenshot_20231208-070849_Expo%20Go.jpg" width="350">
 </p>
 
