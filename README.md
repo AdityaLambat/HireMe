@@ -11,7 +11,7 @@
 ```
 ## Some Highlights of app.
 
-<img src="https://github.com/AdityaLambat/HireMe/blob/master/Screenshot_20231208-070849_Expo%20Go.jpg" width="350">
+<img src="https://github.com/AdityaLambat/HireMe/blob/master/Screenshot_20231208-070849_Expo%20Go.jpg" style="border: 5 solid black;" width="350">
 <br>
 <br>
 <img src="https://github.com/AdityaLambat/HireMe/blob/master/Screenshot_20231208-070852_Expo%20Go.jpg" width="350">
