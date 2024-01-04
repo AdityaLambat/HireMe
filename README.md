@@ -1,6 +1,6 @@
 # HireMe
 
-```
+````
 >Developed using React Native which is a Job Portal build similarly with Indeed.
 >The enviroment is Expo CLI on top of that the project is build.
 >Implemented with various functionalities and features which optimizes the hiring features making it smooth for working.
@@ -8,7 +8,7 @@
 >Functionality to track Job applications which will include application status.
 >Well designed screens which is interactive and friendly for the user.
 
-```
+````
 ## Some Highlights of app.
 
 <img src="https://github.com/AdityaLambat/HireMe/blob/master/Screenshot_20231208-070849_Expo%20Go.jpg" width="250">
